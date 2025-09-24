@@ -1,9 +1,9 @@
 # MOSTERSHOP
 
-- **Kodlayan** Discord: emirhanyx_
+- **Kodlayan** Discord: (MosterDev)[https://www.youtube.com/@MosterDev]
 
 TÜM SİSTEMLER ÇALIŞMAKTADIR. TÜM KONTROLLER EDİLDİ VE ÇALIŞIYOR.
-SİZLERİN TEK YAPMANIZ GEREKEN " npm install " ve " npm install noblox.js " KURMANIZ VE " .env " İÇERİĞİNİ DÜZELTMENİZ GEREKMEKTEDİR.
+> SİZLERİN TEK YAPMANIZ GEREKEN " npm install " KURMANIZ VE " .env " İÇERİĞİNİ DÜZELTMENİZ GEREKMEKTEDİR.
 
 `.env İçeriğini doldurmanız gerekiyor.`
 
@@ -12,4 +12,4 @@ SİZLERİN TEK YAPMANIZ GEREKEN " npm install " ve " npm install noblox.js " KUR
 `node . `
 
 **ÖNEMLİ UYARI !**
-`BOT TAMAMEN MOSTERSHOP YANİ Emirhan Y. AİTTİR ÇALINMASI / İZİNSİZ PAYLAŞILMASI / SATIŞI VB. KESİNLİKLE YASAKTIR! EĞER Kİ TESTPİT EDİLİR İSE GEREKLİ İŞLEMLER UYGULANACAKTIR !`
+`BOT TAMAMEN YouTube/MosterDev AİTTİR İZİNSİZ PAYLAŞILMASI/SATIŞA SUNULMASI KESİNLİKLE YASAKTIR.`

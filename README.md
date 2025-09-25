@@ -1,4 +1,4 @@
-# MOSTERSHOP
+# MOSTERDEV
 
 - **Kodlayan** Discord: (MosterDev)[https://www.youtube.com/@MosterDev]
 

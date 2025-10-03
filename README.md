@@ -1,6 +1,6 @@
 # MOSTERDEV
 
-- **Kodlayan** Discord: (MosterDev)[https://www.youtube.com/@MosterDev]
+- **Kodlayan** YouTube: [MosterDev](https://www.youtube.com/@MosterDev)
 
 TÜM SİSTEMLER ÇALIŞMAKTADIR. TÜM KONTROLLER EDİLDİ VE ÇALIŞIYOR.
 > SİZLERİN TEK YAPMANIZ GEREKEN " npm install " KURMANIZ VE " .env " İÇERİĞİNİ DÜZELTMENİZ GEREKMEKTEDİR.
